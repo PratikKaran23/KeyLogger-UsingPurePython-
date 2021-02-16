@@ -24,7 +24,8 @@ And U Will Get Ur Key Strokes.
 
 Its Should Works For All OS.You Can Check For Mac OS X.Bcoz I Didnt Worked on It  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Note:I Have Not Added A Lot Of features,U Can Make It By Yourself(as It Is Easy).I Have Given the Main Body and Structure of code.
+# Note:
+I Have Not Added A Lot Of features,U Can Make It By Yourself(as It Is Easy).I Have Given the Main Body and Structure of code.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,3 +40,8 @@ School/Institutions: Track keystrokes and log banned words in a file,
 Personal Control and File Backup: Make sure no one is using your computer when you are away,
 Parental Control: Track what your children are doing,
 Self analysis.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Feel Free To Make Pull Request And Give Ur Oppenion.Ur Oppenion Matters.
+# Thank YOu
+# Happy Hacking
+# Happy OpenSource
